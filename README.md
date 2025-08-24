@@ -1,43 +1,43 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
+<!-يمكن العثور على مزيد من المعلومات والنصائح والحيل لجعل ملف تعريف github في مقالتي في https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7->
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
+[!رأس]((https://raw.githubusercontent.com/martinheinz/martinheinz/master/readme_header.png "رأس")]((https://martinheinz.dev/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# مرحبا يا رفاق! <IMG SRC="https://raw.githubusercontent.com/martinheinz/martinheinz/master/wave.gif" عرض="30 بكسل" ارتفاع="30 بكسل" />
 
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+اسمي مارتن هاينز وأنا مطور برمجيات/مهندس DevOps. أنا من سلوفاكيا ، أعيش في براتيسلافا. يمكنك أن تجدني [!تغريد][1.2]][1]أو على [!LinkedIn][3.2]][3].
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+## 🔧 التقنيات والأدوات
+!]((https://img.shields.io/badge/os-linux-informational؟style=flat&logo=linux&logocolor=white&color=2bbc8a)
+!]((https://img.shields.io/badge/editor-intellij_idea-informational؟style=flat&logo=intellij-idea&logocolor=white&color=2bbc8a)
+!]((https://img.shields.io/badge/code-python-informational؟style=flat&logo=python&ogocolor=white&color=2bbc8a)
+!]((https://img.shields.io/badge/code-javascript-informational؟style=flat&logo=javaScript&logocolor=white&color=2bbc8a)
+!]((https://img.shields.io/badge/code-golang-informational؟style=flat&logo=go&logocolor=white&color=2bbc8a)
+!]((https://img.shields.io/badge/code-make-informational؟style=flat&logo=cmake&logocolor=white&color=2bbc8a)
+!]((https://img.shields.io/badge/code-vue-informational؟style=flat&logo=vue.js&ogocolor=white&color=2bbc8a)
+!]((https://img.shields.io/badge/shell-bash-informational؟style=flat&logo=gnu-bash&ogocolor=white&color=2bbc8a)
+!]((https://img.shields.io/badge/tools-postgresql-informational؟style=flat&logo=postgresql&ogocolor=white&color=2bbc8a)
+!]((https://img.shields.io/badge/tools-docker-informational؟style=flat&logo=docker&ogocolor=white&color=2bbc8a)
+!]((https://img.shields.io/badge/tools-kubernetes-informational؟style=flat&logo=kubernetes&logocolor=white&color=2bbc8a)
+!]((https://img.shields.io/badge/tools-red_hat_openshift-informational؟style=flat&logo=red-hat-open-shift&ogocolor=white&color=2bbc8a)
+!]((https://img.shields.io/badge/cloud-digital_ocean-informational؟style=flat&logo=digitalocean&ogocolor=white&color=2bbc8a)
 
-## &#x270d; Blog & Writing
+## ✍ بلوق والكتابة
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+بصرف النظر عن الترميز ، أحافظ أيضًا على مدونة - يمكنك العثور على مقالاتي على موقع الويب الخاص بي على [Martinheinz.dev]((https://martinheinz.dev/) وكذلك على [واسطة]((https://medium.com/@martin.heinz) و [dev.to]((https://dev.to/martinheinz).
 
-A sample of my recent articles:
+عينة من مقالاتي الحديثة:
 
-<!-- BLOG-POST-LIST:START -->
-- [10 Examples Why cURL is an Awesome CLI Tool](https://martinheinz.dev/blog/113)
-- [A Guide to Python&#39;s Weak References Using weakref Module](https://martinheinz.dev/blog/112)
-- [Recent Docker BuildKit Features You&#39;re Missing Out On](https://martinheinz.dev/blog/111)
-- [Shell History Is Your Best Productivity Tool](https://martinheinz.dev/blog/110)
-<!-- BLOG-POST-LIST:END -->
+<!-قائمة المدونة: ابدأ->
+- [10 أمثلة لماذا Curl هي أداة CLI رائعة]((https://martinheinz.dev/blog/113)
+- [دليل للبيثون'المراجع الضعيفة باستخدام وحدة الضعيف]((https://martinheinz.dev/blog/112)
+- [ميزات Docker Buildkit الأخيرة لك'إعادة في عداد المفقودين]((https://martinheinz.dev/blog/111)
+- [تاريخ Shell هو أفضل أداة إنتاجية لك]((https://martinheinz.dev/blog/110)
+<!-قائمة المدونة: نهاية->
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8 ؛ احصائيات جيثب
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<أ HREF="https://github.com/martinheinz/martinheinz">
+  <IMG محاذاة="مركز " src = "https://github-readme-stats.vercel.app/api/top-langs/؟username=martinheinz&hide=java،ht ML ، Tex & title_color = ffffff & text_color = c9cacc & icon_color = 2bbc8a & bg_color = 1d1f21 & langs_count = 3 " />src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
